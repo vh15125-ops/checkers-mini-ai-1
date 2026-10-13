@@ -1,0 +1,7 @@
+round,slot,board,white,black
+1,R1-S1,1,Depth-1,Depth-4
+1,R1-S1,2,Depth-2,Depth-3
+2,R2-S1,1,Depth-3,Depth-1
+2,R2-S1,2,Depth-4,Depth-2
+3,R3-S1,1,Depth-1,Depth-2
+3,R3-S1,2,Depth-3,Depth-4

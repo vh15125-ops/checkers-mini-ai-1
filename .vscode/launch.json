@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Play vs AI (you = White)", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/main.py", "console": "integratedTerminal" },
+    { "name": "AI vs AI demo", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/main.py", "args": ["--white", "ai", "--black", "ai", "--depth", "5"],
+      "console": "integratedTerminal" },
+    { "name": "Run tests", "type": "debugpy", "request": "launch", "module": "unittest",
+      "args": ["discover", "-s", "tests", "-v"], "console": "integratedTerminal" }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "tested": 20,
+  "all_agree": true,
+  "positions": [
+    {
+      "position": 1,
+      "turn": "b",
+      "procedural_moves": 7,
+      "rulebase_moves": 7,
+      "agreement": true
+    },
+    {
+      "position": 2,
+      "turn": "w",
+      "procedural_moves": 7,
+      "rulebase_moves": 7,
+      "agreement": true
+    },
+    {
+      "position": 3,
+      "turn": "b",
+      "procedural_moves": 8,
+      "rulebase_moves": 8,
+      "agreement": true
+    },
+    {
+      "position": 4,
+      "turn": "w",
+      "procedural_moves": 8,
+      "rulebase_moves": 8,
+      "agreement": true
+    },
+    {
+      "position": 5,
+      "turn": "b",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 6,
+      "turn": "w",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 7,
+      "turn": "b",
+      "procedural_moves": 9,
+      "rulebase_moves": 9,
+      "agreement": true
+    },
+    {
+      "position": 8,
+      "turn": "w",
+      "procedural_moves": 9,
+      "rulebase_moves": 9,
+      "agreement": true
+    },
+    {
+      "position": 9,
+      "turn": "b",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 10,
+      "turn": "w",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 11,
+      "turn": "b",
+      "procedural_moves": 8,
+      "rulebase_moves": 8,
+      "agreement": true
+    },
+    {
+      "position": 12,
+      "turn": "w",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 13,
+      "turn": "b",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 14,
+      "turn": "w",
+      "procedural_moves": 8,
+      "rulebase_moves": 8,
+      "agreement": true
+    },
+    {
+      "position": 15,
+      "turn": "b",
+      "procedural_moves": 9,
+      "rulebase_moves": 9,
+      "agreement": true
+    },
+    {
+      "position": 16,
+      "turn": "w",
+      "procedural_moves": 9,
+      "rulebase_moves": 9,
+      "agreement": true
+    },
+    {
+      "position": 17,
+      "turn": "b",
+      "procedural_moves": 9,
+      "rulebase_moves": 9,
+      "agreement": true
+    },
+    {
+      "position": 18,
+      "turn": "w",
+      "procedural_moves": 10,
+      "rulebase_moves": 10,
+      "agreement": true
+    },
+    {
+      "position": 19,
+      "turn": "b",
+      "procedural_moves": 1,
+      "rulebase_moves": 1,
+      "agreement": true
+    },
+    {
+      "position": 20,
+      "turn": "w",
+      "procedural_moves": 6,
+      "rulebase_moves": 6,
+      "agreement": true
+    }
+  ]
+}

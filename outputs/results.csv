@@ -1,0 +1,7 @@
+round,slot,board,white,black,game,result,plies
+1,R1-S1,1,Depth-1,Depth-4,1,draw,120
+1,R1-S1,2,Depth-2,Depth-3,2,Depth-3,113
+2,R2-S1,1,Depth-3,Depth-1,3,Depth-3,98
+2,R2-S1,2,Depth-4,Depth-2,4,draw,120
+3,R3-S1,1,Depth-1,Depth-2,5,draw,120
+3,R3-S1,2,Depth-3,Depth-4,6,draw,120

@@ -1,0 +1,45 @@
+{
+  "position": "reachable mid-game position after deterministic playout",
+  "side_to_move": "b",
+  "chosen_move": "f6-e5",
+  "forced_capture": false,
+  "evaluation_breakdown": {
+    "material": 100.0,
+    "kings": 0.0,
+    "mobility": 0.0,
+    "centre_control": -10.0,
+    "total": 90.0
+  },
+  "principal_variation": [
+    {
+      "player": "b",
+      "move": "f6-e5",
+      "evaluation": 139.0
+    },
+    {
+      "player": "w",
+      "move": "f4xd6",
+      "evaluation": -139.0
+    },
+    {
+      "player": "b",
+      "move": "e7xc5",
+      "evaluation": 139.0
+    },
+    {
+      "player": "w",
+      "move": "d4xb6",
+      "evaluation": -124.0
+    },
+    {
+      "player": "b",
+      "move": "c7xa5",
+      "evaluation": 124.0
+    },
+    {
+      "player": "w",
+      "move": "b2-c3",
+      "evaluation": -124.0
+    }
+  ]
+}
